@@ -1,4 +1,4 @@
-name := "AkkaGame"
+name := "testSbt"
 
 version := "1.0"
 
